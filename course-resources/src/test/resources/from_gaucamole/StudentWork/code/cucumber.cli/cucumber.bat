@@ -1,0 +1,1 @@
+java -Dcucumber.publish.quiet=true -cp ./cucumber_libs/* io.cucumber.core.cli.Main %*
